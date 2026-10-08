@@ -49,8 +49,6 @@ formula-one-data-pipeline/
 │   └── sample/
 │       └── 2019_round_01.csv ...
 ├── results/
-└── docs/
-    └── final_report.pdf
 ```
 
 ## Running the pipeline
